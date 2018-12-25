@@ -7,4 +7,8 @@ this is my frst file in the repo i  created in git on 25th dec 2018
 new line to understand commit 
 
 
+new line to  understand branch.
+
+
+
 for sure lines can be added to master branch 
